@@ -1,13 +1,13 @@
-# Endroid Cam & Bharat Cam
+# Endroid Cam, Bharat Cam & Ether
 
-Camera Management App
+Camera Management Apps
 
 ---
 
 ### Links :
 
-Endroid Cam & Bharat Cam PRIVACY POLICY :-
+Endroid Cam, Bharat Cam & Ether PRIVACY POLICY :-
 https://dbsindia.github.io/ENDROID-CAM-PRIVACY-POLICY/
 
-Endroid Cam & Bharat Cam DELETE ACCOUNT :-
+Endroid Cam, Bharat Cam & Ether DELETE ACCOUNT :-
 https://dbsindia.github.io/ENDROID-CAM-DELETE/
